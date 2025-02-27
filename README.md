@@ -13,7 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -23,14 +22,14 @@ This was a simple project. Very straight forward but that can be a trap. Not doi
 
 ### Screenshot
 
-![](images/screenshot.jpg)
+![Desktop Screenshot](/images/screenshot.jpg)
 
-![](images/screenshot_mobile.png)
+![Mobile Screenshot](/images/screenshot_mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-kSY9L23vv9)
-- Live Site URL: [Add live site URL here](https://theroborobin.github.io/frontend-centor-challenge-QR-code/)
+- Solution URL: [Frontendmento](https://www.frontendmentor.io/solutions/qr-code-component-kSY9L23vv9)
+- Live Site URL: [Github](https://theroborobin.github.io/frontend-centor-challenge-QR-code/)
 
 ## My process
 
