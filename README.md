@@ -22,9 +22,9 @@ This was a simple project. Very straight forward but that can be a trap. Not doi
 
 ### Screenshot
 
-![Desktop Screenshot](/images/screenshot.jpg)
+![Desktop Screenshot](/images/Screenshot.jpg)
 
-![Mobile Screenshot](/images/screenshot_mobile.png)
+![Mobile Screenshot](/images/Screenshot_mobile.png)
 
 ### Links
 
